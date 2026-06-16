@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trying to be better than yesterday. Certain skills that I have worked on includes Control Flow-File Handling-Data Structures (Python), MySQL, Davinci Resolve
+Trying to be better everyday. Certain skills that I have worked on includes Control Flow-File Handling-Data Structures (Python), MySQL, Davinci Resolve
 
 
 ## 🌐 Socials:
